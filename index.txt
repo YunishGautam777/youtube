@@ -1,2 +1,3 @@
 This is the thing which is written by boss.
 This is the thing written by feature1
+This is the thing written by feature2
